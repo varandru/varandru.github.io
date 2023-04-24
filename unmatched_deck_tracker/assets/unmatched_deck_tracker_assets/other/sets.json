@@ -1,0 +1,127 @@
+[
+  {
+    "tag": "BoLv1",
+    "name": "Battle of Legends Vol. 1",
+    "release_date": "2019-09",
+    "characters": [
+      "Alice",
+      "King Arthur",
+      "Medusa",
+      "Sinbad"
+    ]
+  },
+  {
+    "tag": "BL",
+    "name": "Bruce Lee",
+    "release_date": "2019-10",
+    "characters": [
+      "Bruce Lee"
+    ]
+  },
+  {
+    "tag": "RvB",
+    "name": "Robin Hood vs. Bigfoot",
+    "release_date": "2019-11",
+    "characters": [
+      "Bigfoot",
+      "Robin Hood"
+    ]
+  },
+  {
+    "tag": "JP",
+    "name": "Jurassic Park: Ingen vs. Raptors",
+    "release_date": "2020-04",
+    "characters": [
+      "InGen",
+      "Raptors"
+    ]
+  },
+  {
+    "tag": "CnF",
+    "name": "Cobble & Fog",
+    "release_date": "2020-07",
+    "characters": [
+      "Jekyll & Hyde",
+      "Dracula",
+      "Invisible Man",
+      "Sherlock Holmes"
+    ]
+  },
+  {
+    "tag": "BVS",
+    "name": "Buffy the Vampire Slayer",
+    "release_date": "2019-09",
+    "characters": [
+      "Buffy",
+      "Angel",
+      "Spike",
+      "Willow"
+    ]
+  },
+  {
+    "tag": "LRvB",
+    "name": "Little Red Riding Hood vs. Beowulf",
+    "release_date": "2020-12",
+    "characters": [
+      "Beowulf",
+      "Little Red"
+    ]
+  },
+  {
+    "tag": "DP",
+    "name": "Deadpool",
+    "release_date": "2021-06",
+    "characters": [
+      "Deadpool"
+    ]
+  },
+  {
+    "tag": "BoLv2",
+    "name": "Battle of Legends Vol. 2",
+    "release_date": "2022-01",
+    "characters": [
+      "Achilles",
+      "Bloody Mary",
+      "Sun Wukong",
+      "Yennenga"
+    ]
+  },
+  {
+    "tag": "RR",
+    "name": "Redemption Row",
+    "release_date": "2022-03",
+    "characters": [
+      "Ghost Rider",
+      "Luke Cage", 
+      "Moon Knight"
+    ]
+  },
+  {
+    "tag": "HK",
+    "name": "Hell's Kitchen",
+    "release_date": "2022-04",
+    "characters": [
+      "Bullseye",
+      "Daredevil",
+      "Elektra"
+    ]
+  },
+  {
+    "tag": "JP2",
+    "name": "Jurassic Park - Sattler vs. T-Rex",
+    "release_date": "2022-05",
+    "characters": [
+      "Dr. Sattler",
+      "T. Rex"
+    ]
+  },
+  {
+    "tag": "HvG",
+    "name": "Houdini vs. The Genie",
+    "release_date": "2022-12",
+    "characters": [
+      "Houdini",
+      "The Genie"
+    ]
+  }
+]
