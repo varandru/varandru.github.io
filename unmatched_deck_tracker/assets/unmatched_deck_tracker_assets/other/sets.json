@@ -123,5 +123,15 @@
       "Houdini",
       "The Genie"
     ]
+  },
+  {
+    "tag": "TS",
+    "name": "Teen Spirit",
+    "release_date": "2023-04",
+    "characters": [
+      "Cloak",
+      "Ms. Marvel",
+      "Squirrel Girl"
+    ]
   }
 ]
