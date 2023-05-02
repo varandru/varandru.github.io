@@ -8,7 +8,7 @@ const RESOURCES = {
 "canvaskit/profiling/canvaskit.js": "c21852696bc1cc82e8894d851c01921a",
 "canvaskit/profiling/canvaskit.wasm": "371bc4e204443b0d5e774d64a046eb99",
 "flutter.js": "a85fcf6324d3c4d3ae3be1ae4931e9c5",
-"main.dart.js": "7a7c8746b3bf4c149af5df06c26c3d6f",
+"main.dart.js": "4cf2d07b7dd9e26283e6eb9b709a844b",
 "version.json": "aeeaa60e146cbe689c9e99ca5ac7305d",
 "assets/unmatched_deck_tracker_assets/characters/Achilles.json": "586014dd1353b798d3940afdbb550971",
 "assets/unmatched_deck_tracker_assets/characters/Alice.json": "2ec25240716b56bf1a4f1d5639892c2d",
@@ -100,8 +100,8 @@ const RESOURCES = {
 "icons/Icon-512.png": "06ebdb547026c689e2a56cfae9512071",
 "icons/Icon-maskable-192.png": "53c36de707e510851e7f2836f398bafd",
 "icons/Icon-maskable-512.png": "06ebdb547026c689e2a56cfae9512071",
-"index.html": "99606e3f79bd9484b17c58f7ba59747d",
-"/": "99606e3f79bd9484b17c58f7ba59747d",
+"index.html": "88c12b3b3db0b14fecebfb60afb91d1d",
+"/": "88c12b3b3db0b14fecebfb60afb91d1d",
 "manifest.json": "657bb06600f0b534c3d6373672eb7834"
 };
 
